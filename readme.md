@@ -28,7 +28,6 @@ A back end created during Next Level Week provided by Rocketseat. This backend p
 [express]:https://expressjs.com/pt-br/
 
 
-<br></br>
 ### 🧑 Project author
 
 <table>
