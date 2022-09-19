@@ -1,7 +1,7 @@
-# About this project 📚
+# 📚 About this project 
 A back end created during Next Level Week provided by Rocketseat. This backend provides Twitch Games data, where the user can add an ad to find players to play along.
 
-## Installation 🛠️
+## 🛠️ Installation 
 ```bash
     # Clone the repository
     git clone https://github.com/Gabriek0/nlw-esports
